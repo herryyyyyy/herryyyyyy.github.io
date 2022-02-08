@@ -4,13 +4,50 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2022/02/07/hello-world/"/>
-      <url>/2022/02/07/hello-world/</url>
+      <title>第一个项目</title>
+      <link href="/2022/02/09/%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE/"/>
+      <url>/2022/02/09/%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>学生成绩统计软件(C语言编写)<br>功能要求：<br>1.每条记录由学号、姓名、若干门课程的成绩组成；<br>2.能计算每个学生的总分和平均分并显示；<br>3.能按平均分统计各分数段的人数，并以分布图显示，如右图所示。<br>4.在此基础上，可进行文件操作。</p>]]></content>
       
       
+      <categories>
+          
+          <category> 项目 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> c语言 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>欢迎来到我的博客</title>
+      <link href="/2022/02/08/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2022/02/08/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言-2022-2-8"><a href="#前言-2022-2-8" class="headerlink" title="前言 2022-2-8"></a>前言 2022-2-8</h2><p>欢迎大家来到我的博客，这是基于Hexo框架+Butterfly主题，在GitHub平台上托管我的博客，这种方式不需要定期维护，是个很好的选择。缺点是建立在国外服务器上，网站加载速度会很慢，高清图片很久才能加载出来。在这里会记录博客慢慢维护地变化，附上一张图纪念。(在Butterfly主题配置下，点击出现的爱心和首页文案的循环播放，咱就是说，一整个的爱住。)<br><img src="https://s2.loli.net/2022/02/08/9bKgukqLfU7a8rx.jpg" alt="图片加载失败"><br>做项目去驱动学习是一个很好的学习方式，会遇到很多问题，跌跌撞撞的过程中学到的肯定是记忆深刻的，但也是最有效的方法。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
       
     </entry>
     
