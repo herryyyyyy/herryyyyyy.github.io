@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>教务系统小程序</title>
-      <link href="/2022/03/02/%E6%95%99%E5%8A%A1%E7%B3%BB%E7%BB%9F%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-      <url>/2022/03/02/%E6%95%99%E5%8A%A1%E7%B3%BB%E7%BB%9F%E5%B0%8F%E7%A8%8B%E5%BA%8F/</url>
+      <title>”互联网+“益壮小程序</title>
+      <link href="/2022/05/01/%E2%80%9D%E4%BA%92%E8%81%94%E7%BD%91+%E2%80%9C%E7%9B%8A%E5%A3%AE%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+      <url>/2022/05/01/%E2%80%9D%E4%BA%92%E8%81%94%E7%BD%91+%E2%80%9C%E7%9B%8A%E5%A3%AE%E5%B0%8F%E7%A8%8B%E5%BA%8F/</url>
       
-        <content type="html"><![CDATA[<p>想学习小程序，一直不知道做什么好，突发奇想可以给教务系统做个好看点的小程序的壳，先做好壳再找学校审批。</p><h2 id="前期准备"><a href="#前期准备" class="headerlink" title="前期准备"></a>前期准备</h2><p>1.先注册一个个人小程序<br>2.下载微信开发者工具软件<br>3.查找相关资料为开发准备</p><h2 id="相关知识"><a href="#相关知识" class="headerlink" title="相关知识"></a>相关知识</h2><p>微信小程序开发和web开发类似，不同的是微信小程序开发有自己的语言，如微信的wxss,wxml类似于web开发的css和html。<br>1.wxml<br>-view和scroll-view组件的基本用法</p>]]></content>
+        <content type="html"><![CDATA[<p>”互联网+“比赛做了个小程序，项目名称：益壮——一个有利于中老年人身心健康年轻化的平台</p><h2 id="前期准备"><a href="#前期准备" class="headerlink" title="前期准备"></a>前期准备</h2><p>1.先注册一个个人小程序<br>2.下载微信开发者工具软件<br>3.查找相关资料为开发准备</p><h2 id="相关知识"><a href="#相关知识" class="headerlink" title="相关知识"></a>相关知识</h2><p>微信小程序开发和web开发类似，不同的是微信小程序开发有自己的语言，如微信的wxss,wxml类似于web开发的css和html。</p><h2 id="成功展示"><a href="#成功展示" class="headerlink" title="成功展示"></a>成功展示</h2><p>历经7天自学，独立开发中不断找BUG，网上找解决办法，小有成果，开始接触到了前端三件套。<br><img src="https://s2.loli.net/2022/05/31/UPXaKE3v2AVs9Qf.png" alt="图片.png"><br><img src="https://s2.loli.net/2022/05/31/JmZRfnH9rV8OEuL.png" alt="图片.png"></p>]]></content>
       
       
       <categories>
